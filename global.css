@@ -1,0 +1,27 @@
+.body {
+  background-color: white;
+  text-align: center;
+}
+
+.button {
+  border-radius: 50%;
+  margin: auto;
+  padding 30px;
+  width fit-content;
+}
+
+.button:hover {
+  background-color: green;
+  transition: background-color 2s;
+}
+
+img {
+  wigth: 200px;
+  height: 200px;
+}
+
+.paragraph {
+  border-radius: 5px;
+  margin: 50px;
+  padding: 5px;
+}
