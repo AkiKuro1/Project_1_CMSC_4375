@@ -1,0 +1,60 @@
+<html>
+<head>
+    <title> CLASS 1 </title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+    <header class="header">
+    <nav class="navbar navbar-style">
+      <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#micon">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+
+
+          <a href=""><img class="Logo" src="Logo.png" alt="Logo"></a>
+          </div>
+          <div class="collapse navbar-collapse" id="micon">
+          <ul class="nav navbar-nav navbar-right">
+          <li><a href="HOMEPage.Html"> HOME</a></li>
+          <li><a href="CLASSES"> CLASSES</a></li>
+          </ul>
+
+      </div>
+      </nav>
+      <div class="container">
+      <div class="row">
+          <div class="col-sm-4">
+            <h1>WELCOME TO CLASS 1</h1>
+            <a class="btn btn-first" href="#">Grades</a>
+            <a class="btn btn-second" href="#">Assignments</a>
+            <a class="btn btn-third" href="#">Lessons</a>
+
+          </div>
+
+          <div class="col-sm-4">
+          <img class="benu" src="benu.png">
+          </div>
+
+  </header>
+<div class="container">
+<div class="row">
+<footer>
+          <ul class="nav navbar-nav navbar-left">
+          <li><a href="CONTACT"> CONTACT</a></li>
+          <li><a href="SUPPORT"> SUPPORT</a></li>
+          <li><a href="UPDATES"> UPDATES</a></li>
+          <li><a href="https://www.ben.edu/">BENU</a></li>
+        </ul>
+  </footer>
+</div>
+</div>
+
+</body>
+</html>
